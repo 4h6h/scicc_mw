@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.cStandard": "c99",
+    "C_Cpp.workspaceParsingPriority": "high",
+    "C_Cpp.autocompleteAddParentheses": false,
+    "C_Cpp.autoAddFileAssociations": false,
+    "files.associations": {
+        "*.h": "c"
+    },
+    "cmake.configureOnOpen": false,
+}
